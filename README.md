@@ -2,7 +2,7 @@
 
 ETF Analysis through a Web Application
 
-This project contains an analysis of an ETF portfolio using dated imported from the contained database. The project demonstrates using SQL queries to access the data. With the data read into a dataframe, the daily and cumulative returns of a single asset, PYPL, and the entire ETF portfolio are analyzed and visualized using HVPlot. 
+This project contains an analysis of an ETF portfolio using data imported from the contained database. The project demonstrates using SQL queries to access the data. With the data read into a dataframe, the daily and cumulative returns of a single asset, PYPL, and the entire ETF portfolio are analyzed and visualized using HVPlot. 
 
 
 ---
